@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pythagora-io/gpt-pilot/commit/9b763fdaf0020c7d8abacc7b58b2b09e57494623",
       "git:hexsha": "9b763fdaf0020c7d8abacc7b58b2b09e57494623",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Pythagora-io/gpt-pilot/commit/3caf0f7018819507df9a1a6123fd10baa82f4b1e",
